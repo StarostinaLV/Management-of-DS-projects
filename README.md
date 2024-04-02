@@ -1,4 +1,4 @@
-# Managment of data science projects
+# Management of data science projects
 Домашнее задание №2 раздела "Менеджмент data-проектов"
 
 # **Задание**
