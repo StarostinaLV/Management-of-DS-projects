@@ -1,4 +1,4 @@
-# Netology_HW
+# Managment of data science projects
 Домашнее задание №2 раздела "Менеджмент data-проектов"
 
 # **Задание**
