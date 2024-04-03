@@ -13,6 +13,6 @@
 
 # **Содержание файлов**
 
-1. HW2_DS Menegement .ipynb - код.
+1. DS Menegement .ipynb - код.
 2. winequalityN.csv - исходные данные.
 3. wine_quality_prediction.csv - результаты работы (предсказания модели). 
